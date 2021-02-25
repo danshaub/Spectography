@@ -1,4 +1,4 @@
-# Spectography Genre Prediction
+# Spectrogram Genre Prediction
 
 ## Robert Farmer <br> Dan Haub <br> Charles Filce
 
